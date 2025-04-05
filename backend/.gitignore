@@ -37,3 +37,6 @@
 .env.development.local
 .env.test.local
 .env.production.local
+
+# Don't ignore example environment files
+!.env.example
